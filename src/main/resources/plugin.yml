@@ -1,0 +1,4 @@
+name: PluginAbAn
+version: '${project.version}'
+main: org.mango.pluginaban.PluginAbAn
+api-version: '1.20'
